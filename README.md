@@ -18,10 +18,10 @@ By working on this project, I gained expertise in the following areas:
 
 ## Usage
 To run the program, you need to have g++ installed on your system. Clone the repository and navigate to the project directory. Then, run the following command:
-```make```
-g++ server.cpp -o server
-g++ client.cpp -o client
-This will compile the server and client files. Then, run the server by executing ./server in one terminal window and run the client by executing ./client in another terminal window.
+```
+make
+```
+This will compile the server and client files. Then, run the server by executing ```./server.out``` in one terminal window and run the client by executing ```./client.out```  in another terminal window.
 
 ## Conclusion
 This project is a comprehensive implementation of KNN classifications with C++ sockets and showcases your expertise in KNN algorithms, socket programming, multithreading, OOP, and design patterns in C++. It will surely impress potential employers or collaborators and demonstrate your ability to create robust, scalable, and efficient solutions.
